@@ -1,4 +1,4 @@
-abstract class Endurance {
+export abstract class Endurance {
   abstract enduranceLevel: number;
 
   enduranceTraining(): void {
